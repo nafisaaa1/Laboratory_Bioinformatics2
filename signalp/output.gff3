@@ -1,0 +1,14 @@
+## gff-version 3
+sp|Q01638|ILRL1_HUMAN Interleukin-1 receptor-like 1 OS=Homo sapiens OX=9606 GN=IL1RL1 PE=1 SV=4	SignalP-6.0	signal_peptide	1	18	0.9997306	.	.	.
+sp|P19438|TNR1A_HUMAN Tumor necrosis factor receptor superfamily member 1A OS=Homo sapiens OX=9606 GN=TNFRSF1A PE=1 SV=1	SignalP-6.0	signal_peptide	1	29	0.9997599	.	.	.
+sp|P0DUS3|Z14_DORVU Z-limacoditoxin(1)-Dv4 OS=Doratifera vulnerans OX=1372962 PE=1 SV=1	SignalP-6.0	signal_peptide	1	20	0.6172181	.	.	.
+sp|P19324|SERPH_MOUSE Serpin H1 OS=Mus musculus OX=10090 GN=Serpinh1 PE=1 SV=3	SignalP-6.0	signal_peptide	1	17	0.9997608	.	.	.
+sp|P0C8E7|EVA1_RHISA Evasin-1 OS=Rhipicephalus sanguineus OX=34632 PE=1 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997808	.	.	.
+sp|P60568|IL2_HUMAN Interleukin-2 OS=Homo sapiens OX=9606 GN=IL2 PE=1 SV=1	SignalP-6.0	signal_peptide	1	20	0.9997588	.	.	.
+sp|Q02862|CS2LA_MOUSE Alpha-S2-casein-like A OS=Mus musculus OX=10090 GN=Csn1s2a PE=1 SV=1	SignalP-6.0	signal_peptide	1	15	0.9995954	.	.	.
+sp|P55955|TTR16_CAEEL Transthyretin-like protein 16 OS=Caenorhabditis elegans OX=6239 GN=ttr-16 PE=1 SV=2	SignalP-6.0	signal_peptide	1	19	0.99979055	.	.	.
+sp|O75462|CRLF1_HUMAN Cytokine receptor-like factor 1 OS=Homo sapiens OX=9606 GN=CRLF1 PE=1 SV=1	SignalP-6.0	signal_peptide	1	37	0.99828964	.	.	.
+sp|P26732|BXA9_BOMMO Bombyxin A-9 OS=Bombyx mori OX=7091 GN=BBXA9 PE=1 SV=1	SignalP-6.0	signal_peptide	1	17	0.9996863	.	.	.
+sp|P04925|PRIO_MOUSE Major prion protein OS=Mus musculus OX=10090 GN=Prnp PE=1 SV=2	SignalP-6.0	signal_peptide	1	22	0.9997457	.	.	.
+sp|Q805F3|CATEA_XENLA Cathepsin E-A OS=Xenopus laevis OX=8355 GN=ctse-a PE=1 SV=1	SignalP-6.0	signal_peptide	1	16	0.99970317	.	.	.
+sp|Q61400|CEAMA_MOUSE Carcinoembryonic antigen-related cell adhesion molecule 10 OS=Mus musculus OX=10090 GN=Ceacam10 PE=1 SV=1	SignalP-6.0	signal_peptide	1	34	0.99966794	.	.	.
